@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Om Prakash </h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🎬 Motion Lover</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/yourusername">
